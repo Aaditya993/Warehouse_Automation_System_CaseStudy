@@ -1,0 +1,10 @@
+# Warehouse Inventory Data File
+# Format: ProductID,Name,CurrentQuantity,ReorderThreshold
+1001,Steel Bolts M8,450,100
+1002,Hydraulic Pump,8,10
+1003,Safety Helmets,35,20
+1004,PVC Pipe 20mm,12,25
+1005,Electric Motor 5HP,3,5
+1006,Lubricant Oil 5L,60,15
+1007,Conveyor Belt,2,3
+1008,Forklift Battery,18,10
